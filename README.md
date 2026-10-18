@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; height: 40vh;">
     <img src="https://file.garden/akUdh8lPBnO7QQzB/bryan1.png" alt="Centered Image">
 </div>
 
